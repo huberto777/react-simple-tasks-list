@@ -1,0 +1,31 @@
+ul {
+    padding: 0;
+    margin: 0;
+
+}
+
+li {
+    cursor: pointer;
+    list-style-type: none;
+    font-size: 14px;
+}
+
+.content {
+    display: inline;
+}
+
+.addButton {
+    background-color: blue;
+    color: white;
+    border: 0px;
+    display: inline-flex;
+    padding: 3px;
+}
+
+.delButton {
+    float: right;
+    background-color: red;
+    color: white;
+    font-size: 10px;
+    border: 0px;
+}
